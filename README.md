@@ -29,7 +29,7 @@ A **WEB DEVELOPMENT | FullStack ** ***Enthusiast*** 🚀.
 - 🌱 I'm learning more about react, react native, nodejs, nextjs, serverless 
 - 🤔  My interest lies in web and mobile development .
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [utfprdiario@gmail.com](mailto:utfprdiario@gmail.com).
+- 📫 Email me at [gabrielbecher@alunos.utfpr.edu.br](mailto:gabrielbecher@alunos.utfpr.edu.br).
 
 
 
