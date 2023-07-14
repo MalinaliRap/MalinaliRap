@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, Hello, I'm Gabriel Coplas Becher! from  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" /></h3>
+<h3 title="hehehe"> Hey 👋, Hello, I'm Gabriel Coplas Becher!  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" /></h3>
 
 <br>
 
