@@ -18,7 +18,7 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT | FullStack ** ***Enthusiast*** 🚀.
+A **Software Engineer - FullStack .
 
 <img width="380px" align="right" alt="GIF" src="https://gifdb.com/images/high/it-crowd-fire-this-is-fine-yd0qbeoybp7dttbb.webp" />
  
