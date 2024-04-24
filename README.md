@@ -26,8 +26,8 @@ A **WEB DEVELOPMENT | FullStack ** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 Every day thinking and creating ways to change people's lives with technology
-- 🌱 I'm learning more about react, react native, nodejs, nextjs, serverless 
-- 🤔  My interest lies in web and mobile development .
+- 🌱 I'm learning more about Laravel, react, react native, serverless 
+- 🤔  My interest lies in Laravel and mobile development .
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [gabrielbecher@alunos.utfpr.edu.br](mailto:gabrielbecher@alunos.utfpr.edu.br).
 
@@ -42,8 +42,8 @@ A **WEB DEVELOPMENT | FullStack ** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
