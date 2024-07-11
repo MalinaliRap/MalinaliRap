@@ -29,7 +29,7 @@ A **Software Engineer - FullStack** .
 - 🌱 I'm learning more about Laravel, react, react native, serverless 
 - 🤔  My interest lies in Laravel and mobile development .
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [gabrielbecher@softmali.com](mailto:gabrielbecher@softmali.com).
+- 📫 Email me at [gabrielbecher@softmali.com.br](mailto:gabrielbecher@softmali.com.br).
 
 
 
